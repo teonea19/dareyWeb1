@@ -1,2 +1,1 @@
-# dareyWeb1
-Html project
+View site here: https://teonea19.github.io/dareyWeb1/
